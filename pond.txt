@@ -1,0 +1,82 @@
+[
+  {
+    "description":"Hồ nhiều cá, đồ ăn ngon rẻ, sạch sẽ, cảnh đẹp. Từ Hà Nội sang đi đường Nguyễn Văn Cừ, qua trạm soát vé cũ chừng vài trăm mét rẽ phải (đường vào sân bay). Đi hết đường rẽ phải tiếp thấy ngay biển chỉ dẫn Hồ câu Phi Trường.",
+    "name":"Hồ câu Phi Trường",
+    "address":"Tổ 24 cụm 4 - T2 Sân bay Gia Lâm",
+    "phone_1":"0438721812",
+    "phone_2":"0913584468",
+    "review":"http://blogcauca.com/ho-cau-phi-truong-dia-chi-cau-vua-chat-vua-re-tai-ha-noi"
+  },
+  {
+    "description":"Từ cầu CD rẽ phải đi theo đê 2km , rẽ trái khi thấy biển Chùa Sùng Khánh , đi vào 1 km là đến (hỏi hồ câu Tuấn Béo).",
+    "name":"Hồ câu Tuấn béo",
+    "address":"Thôn Tư Đình - Xã Long Biên - Gia Lâm",
+    "phone_1":"048752094",
+    "review":""
+  },
+   {
+    "description":"Hồ có hơn 40 lều câu lớn nhỏ, số lượng cá khá lớn và đa dạng. Không gian ở đây mướt một màu xanh cây lá, yên tĩnh, trong lành như một làng quê thanh bình",
+    "name":"Khu du lịch sinh thái Cọ Xanh",
+    "address":"Khu Cồn Đảo, xã Nam Hồng, Đông Anh, Hà Nội (đi qua cầu đến ngã tư Nam Hồng thì rẽ phải đi vào khoảng 2km thì rẽ trái là Cọ Xanh).",
+    "phone_1":"048833133",
+    "review":""
+  },
+  {
+    "description":"Giá cực rẻ(10k/1h), ngồi gần mấy cái ống cống thì giật liên tục, rô đồng câu ở đây khá nhiều, mồi bằng tôm ươn, tuy nhiên chỉ câu buổi sáng, chiều không ăn mồi",
+    "name":"Hồ Công Viên Linh Đàm",
+    "address":"Linh Đàm, Hoàng Mai, Hà Nội",
+    "phone_1":"",
+    "review":"http://giadinh.net.vn/xa-hoi/ha-noi-can-thu-tung-hoanh-o-cong-vien-20160315122723873.htm"
+  },
+  {
+    "description":"Nhà hồ đã có nhiều năm kinh nghiệm trong việc cung cấp dịch vụ câu cá giải trí, do đó, nhà hồ có khuôn viên rộng rãi, thoáng mát với hai hồ, một hồ to, một hồ nhỏ. Trong hồ có rất nhiều cá to, đây sẽ là thách thức chờ đợi quý khách chinh phục.",
+    "name":"Hồ Câu Lý Sơn",
+    "address":"380 đường Lĩnh Nam, phường Trần Phú, quận Hoàng Mai, Thành phố Hà Nội",
+    "phone_1":"0436449351",
+    "review":""
+  },
+  {
+    "description":"Đến với nơi đây, bạn sẽ tìm thấy cảm giác thư thái cùng chiếc cần câu và đặc biệt là bạn sẽ rất hài lòng khi thưởng thức những những món ăn thật dân dã giữa thủ đô, cùng kết giao bằng hữu. ",
+    "name":"Nhà hàng - hồ câu Xuân Quế",
+    "address":"số 57 tổ 12 Ngọc Thụy, Long Biên, Hà Nội",
+    "phone_1":"0438730526",
+    "phone_2":"0913503873",
+    "review":""
+  },
+  {
+    "description":"Đường đi từ ga Gia Lâm vào rẽ trái là Nấm,đi thẳng đến chung cư Đầm Nấm rồi rẽ phải khoảng 100m là tới Thanh Long.",
+    "name":"Hồ Đầm Nấm và hồ Thanh Long",
+    "address":"ga Gia Lâm, Hà Nội",
+    "phone_1":"",
+    "phone_2":"",
+    "review":""
+  },
+  {
+    "description":"Nằm kẹt giữa đường bộ và đường sắt có 2 hồ:\n- Hồ sâu từ 1.5m đến 2.0m, chủng loại cá có trắm,chép trôi,mè, rô phi nhỏ hơi nhiều...\n- Chủ hồ tính tình dễ chịu, chịu khó bồi cá \n- Giá câu: 120k cả ngày (có thuyền thả thính) phục vụ các bác xa bờ.\nĐặc biệt nhà hồ có một bể cá chép khoảng 1kg nếu bác nào hôm đó muỗm nhà hồ sẽ biếu một chú chép ở trong bể mang về gọi là cá móm.",
+    "name":"Hồ Pháp Vân - Cầu Giẽ (phía Phủ Lý)",
+    "address":"Cầu Giẽ, Hà Nội",
+    "phone_1":"",
+    "review":""
+  },
+  {
+    "description":"Đi hết cầu Chương Dương rẽ bên tay phải đi thẳng khoảng 3km thì đến dốc Thạch Bàn, cứ lao thẳng xuống dốc đi 1 đoạn là thấy bên tay trái có cái hồ dài và to thì đó là hồ nhà Bền. Giá 50k/1 ngày.",
+    "name":"Hồ Nhà Bền",
+    "address":"Thạch Bàn, Hà Nội",
+    "phone_1":"",
+    "review":""
+  },
+  {
+    "description":"1. Đường Khương Trung, tới ngõ 211 chạy thẳng 1 km là tới\n2. Ngõ 93 Hoàng văn Thái, rẽ vào, hỏi thổ dân ai cũng biết\n3. Phố Bùi xương Trạch, đến số nhà 10, đối diện có ngõ vào",
+    "name":"Đầm Hồng",
+    "address":"Định Công, Hà Nội",
+    "phone_1":"",
+    "review":""
+  },
+  {
+    "description":"Chân cột điện cao thế Đông Anh, Thôn Võng La, Xã Võng La, Huyện Đông Anh.",
+    "name":"Khu du lịch sinh thái Hồ Sen",
+    "address":"Thôn Võng La, Xã Võng La, Huyện Đông Anh",
+    "phone_1":"0904160619",
+    "review":""
+  }
+]
