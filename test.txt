@@ -1,0 +1,25 @@
+[
+  {
+    "description":"Hồ nhiều cá, đồ ăn ngon rẻ, sạch sẽ, cảnh đẹp. Từ Hà Nội sang đi đường Nguyễn Văn Cừ, qua trạm soát vé cũ chừng vài trăm mét rẽ phải (đường vào sân bay). Đi hết đường rẽ phải tiếp thấy ngay biển chỉ dẫn Hồ câu Phi Trường.",
+    "name":"Hồ câu Phi Trường",
+    "address":"Tổ 24 cụm 4 - T2 Sân bay Gia Lâm",
+    "phone_1":"0438721812",
+    "phone_2":"0913584468",
+    "review":"http://blogcauca.com/ho-cau-phi-truong-dia-chi-cau-vua-chat-vua-re-tai-ha-noi",
+    "latlon": {
+            "latitude": 21.000202,
+            "longitude": 105.882781,
+          }
+  },
+  {
+    "description":"Từ cầu CD rẽ phải đi theo đê 2km , rẽ trái khi thấy biển Chùa Sùng Khánh , đi vào 1 km là đến (hỏi hồ câu Tuấn Béo).",
+    "name":"Hồ câu Tuấn béo",
+    "address":"Thôn Tư Đình - Xã Long Biên - Gia Lâm",
+    "phone_1":"048752094",
+    "review":"",
+    "latlon": {
+            "latitude": 21.003204,
+            "longitude": 105.881812,
+          }
+  },
+]
