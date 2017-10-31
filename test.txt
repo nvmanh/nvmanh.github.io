@@ -8,7 +8,7 @@
     "review":"http://blogcauca.com/ho-cau-phi-truong-dia-chi-cau-vua-chat-vua-re-tai-ha-noi",
     "latlon": {
             "latitude": 21.000202,
-            "longitude": 105.882781,
+            "longitude": 105.882781
           }
   },
   {
@@ -19,7 +19,7 @@
     "review":"",
     "latlon": {
             "latitude": 21.003204,
-            "longitude": 105.881812,
+            "longitude": 105.881812
           }
   }
 ]
